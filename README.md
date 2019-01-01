@@ -1,0 +1,1 @@
+# Bilangan-Terkecil-Dari-3-Bilangan
